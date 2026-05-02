@@ -31,7 +31,7 @@
 <!-- 修仙卡片 / GitHub 数据卡片 -->
 <h3 align="center">📊 GitHub Status</h3>
 <div align="center">
-  <img src="https://github-immortality.vercel.app/api?username=hztxx" alt="GitHub Immortality Stats"/>
+  <img src="https://github-immortality.vercel.app/api?username=Miracle" alt="GitHub Immortality Stats"/>
 </div>
 
 ---
