@@ -6,7 +6,7 @@
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
   <!-- 核心语言 -->
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <!-- 平台与工具 -->
   <br/>
@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</div>
+<!-- 修仙卡片 居中 -->
+<div align="center">
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=hztxx)
 </div>
 
 ---
