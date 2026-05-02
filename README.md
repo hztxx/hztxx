@@ -1,5 +1,5 @@
 # 👋 Hi, I'm hztxx
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=25A7E7&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;C%2FSTM32%2FFreeRTOS%2FROS+Engineer;Low-power+MCU+Enthusiast;Waiting+for+your+interrupt)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=25A7E7&background=FFFFFF00&center=true&vCenter=true&width=650&lines=把遗憾做延时销毁，让温柔常驻系统内核)
 
 <!-- 嵌入式开发者签名 -->
 <p align="center">
